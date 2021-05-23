@@ -1,0 +1,27 @@
+/* COLOR : f1f6f9 , ef4f4f , 222831 , 51adcf , f56a79 , ff4b5c */ 
+body{
+    background-color:#222831;
+    color: #FFF;
+}
+nav .brand-logo{
+    padding-left: 20px;
+}
+nav .nav-wrapper{
+    background-color: #222831 !important;
+    color: #dddddd;
+    font-size: 14px;
+    font-weight: bold;
+    padding-right: 20px;
+
+}
+
+.container{
+    padding-top: 30px;    
+    
+}
+.container .add-c{
+    padding-top: 10px;
+}
+.posts{
+    background-color: blue;
+}
